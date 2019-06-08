@@ -1,0 +1,10 @@
+ --> Director      : 04023280301
+--> Principal      : 04023280302
+--> Vice-Principal : 04023280307
+--> Library        : 04023280381
+  **** HEADS OF DEPARTMENT ****
+    CIVIL : 04023280321
+    CSE   : 04023280331
+    ECE   : 04023280341
+    IT    : 04023280631
+    MECH  : 04023280371
